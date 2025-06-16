@@ -8,7 +8,8 @@
 	<PackageVersion>1.0.0</PackageVersion>
 	<PackageReadmeFile>README.md</PackageReadmeFile>
 	<InformationalVersion>$(PackageVersion)</InformationalVersion>
-	<PackageVersion>2.0.0</PackageVersion>	  
+	<RepositoryUrl>https://github.com/andrea-ceron/KafkaUtility</RepositoryUrl>
+
   </PropertyGroup>
 	
 	<ItemGroup>
