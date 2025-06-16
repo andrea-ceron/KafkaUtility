@@ -4,12 +4,13 @@
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-	  <PackageId>KafkaUtility</PackageId>
 	<AssemblyVersion>1.0.0</AssemblyVersion>
+	<PackageId>KafkaUtility</PackageId>
 	<PackageVersion>1.0.0</PackageVersion>
 	<PackageReadmeFile>README.md</PackageReadmeFile>
 	<InformationalVersion>$(PackageVersion)</InformationalVersion>
 	<RepositoryUrl>https://github.com/andrea-ceron/KafkaUtility</RepositoryUrl>
+	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 
   </PropertyGroup>
 	
