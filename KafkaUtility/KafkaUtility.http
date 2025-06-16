@@ -1,6 +1,0 @@
-@KafkaUtility_HostAddress = http://localhost:5153
-
-GET {{KafkaUtility_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
